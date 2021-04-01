@@ -20,7 +20,8 @@
     "url": "https://github.com/AliakseyenkaIhar/webpack-show-assets-table/issues"
   },
   "homepage": "https://github.com/AliakseyenkaIhar/webpack-show-assets-table#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "cli-table3": "^0.6.0"
   }
 }
