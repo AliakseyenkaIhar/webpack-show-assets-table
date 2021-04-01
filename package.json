@@ -1,0 +1,26 @@
+{
+  "name": "webpack-show-assets-table",
+  "version": "1.0.0",
+  "description": "Show compiled assets by webpack in a table view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliakseyenkaIhar/webpack-show-assets-table.git"
+  },
+  "keywords": [
+    "webpack",
+    "assets"
+  ],
+  "author": " <aliha.devs@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliakseyenkaIhar/webpack-show-assets-table/issues"
+  },
+  "homepage": "https://github.com/AliakseyenkaIhar/webpack-show-assets-table#readme",
+  "devDependencies": {
+    "cli-table3": "^0.6.0"
+  }
+}
