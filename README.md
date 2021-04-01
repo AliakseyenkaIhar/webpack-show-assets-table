@@ -1,0 +1,1 @@
+# webpack-show-assets-table
